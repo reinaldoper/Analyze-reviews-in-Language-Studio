@@ -4,7 +4,7 @@
 
 ## Analise de sentimentos e opiniões usando o Language Studio Azure:
 
-- Usei como base o texto da documentação.
+- Usei como base o texto da [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html).
 
 ## Este artigo tem como objetivo mostrar:
 
