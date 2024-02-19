@@ -14,9 +14,10 @@
 ## Texto usado:
 
 - O texto usado se encontra dentro do diretório /inputs/arquivos.txt.
-- O algoritmo resultante dentro do diretório /inputs/arquivo.json
+- O algoritmo resultante dentro do diretório /inputs/arquivo.json.
+- Um print de alguns pontos de algumas frases usadas como analise no diretório /inputs/sentimentos.png.
 
-## Resultado obtido:
+## Resultados obtidos:
 
 ```shell
 Analyzed sentiment
@@ -30,4 +31,9 @@ NEUTRAL
 96.00%
 NEGATIVE
 ```
+
+![Sentimentos](./inputs/sentimentos.png)
+
+---
+
 
